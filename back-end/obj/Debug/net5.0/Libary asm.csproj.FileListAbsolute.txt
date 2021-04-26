@@ -1,0 +1,142 @@
+E:\nashtech\Libary asm\bin\Debug\net5.0\appsettings.Development.json
+E:\nashtech\Libary asm\bin\Debug\net5.0\appsettings.json
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.exe
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.deps.json
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.runtimeconfig.json
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.runtimeconfig.dev.json
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\ref\Libary asm.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.pdb
+E:\nashtech\Libary asm\bin\Debug\net5.0\Libary asm.Views.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Humanizer.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.csprojAssemblyReference.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.GeneratedMSBuildEditorConfig.editorconfig
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.AssemblyInfoInputs.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.AssemblyInfo.cs
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.csproj.CoreCompileInputs.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.MvcApplicationPartsAssemblyInfo.cs
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.MvcApplicationPartsAssemblyInfo.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\staticwebassets\Libary asm.StaticWebAssets.Manifest.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\staticwebassets\Libary asm.StaticWebAssets.xml
+E:\nashtech\Libary asm\obj\Debug\net5.0\scopedcss\bundle\Libary asm.styles.css
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.RazorTargetAssemblyInfo.cache
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.csproj.CopyComplete
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.dll
+E:\nashtech\Libary asm\obj\Debug\net5.0\ref\Libary asm.dll
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.pdb
+E:\nashtech\Libary asm\obj\Debug\net5.0\Libary asm.genruntimeconfig.cache
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\nashtech\Libary asm\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\appsettings.Development.json
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\appsettings.json
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.exe
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.deps.json
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.runtimeconfig.json
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.runtimeconfig.dev.json
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\ref\Libary asm.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.pdb
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Libary asm.Views.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Humanizer.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\nashtech\Libary asm\back-end\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.csprojAssemblyReference.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.GeneratedMSBuildEditorConfig.editorconfig
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.AssemblyInfoInputs.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.AssemblyInfo.cs
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.csproj.CoreCompileInputs.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.MvcApplicationPartsAssemblyInfo.cs
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.MvcApplicationPartsAssemblyInfo.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\staticwebassets\Libary asm.StaticWebAssets.Manifest.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\staticwebassets\Libary asm.StaticWebAssets.xml
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\scopedcss\bundle\Libary asm.styles.css
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.RazorTargetAssemblyInfo.cache
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.csproj.CopyComplete
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.dll
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\ref\Libary asm.dll
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.pdb
+E:\nashtech\Libary asm\back-end\obj\Debug\net5.0\Libary asm.genruntimeconfig.cache

@@ -14,9 +14,6 @@ namespace Libary_asm.Models
 
         public string Username { get; set; }
 
-        [Display(Name = "Remember Me")]
-        public bool RememberMe { get; set; }
-
         public string Password { get; set; }
 
         public Role Role { get; set; }

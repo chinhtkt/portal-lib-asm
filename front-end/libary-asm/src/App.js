@@ -193,7 +193,7 @@ function App() {
               <Profile authorities={authorities} />
             </Route>
             <Route path='/user'>
-              <BoardUser authorities={authorities} />
+              <BoardUser authorities={authorities} books={books} setBooks={setBooks} />
             </Route>
             <Route path='/admin'>
               <Category

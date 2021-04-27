@@ -4,14 +4,16 @@ using Libary_asm;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Libary_asm.Migrations
 {
     [DbContext(typeof(LibaryContext))]
-    partial class LibaryContextModelSnapshot : ModelSnapshot
+    [Migration("20210427042354_chinhtkt")]
+    partial class chinhtkt
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -145,6 +147,9 @@ namespace Libary_asm.Migrations
                     b.Property<string>("Password")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("RememberMe")
+                        .HasColumnType("bit");
+
                     b.Property<int>("Role")
                         .HasColumnType("int");
 
@@ -161,6 +166,7 @@ namespace Libary_asm.Migrations
                             UserId = 1,
                             BorrowRequestId = 0,
                             Password = "123",
+                            RememberMe = false,
                             Role = 0,
                             Username = "chinhtkt"
                         });

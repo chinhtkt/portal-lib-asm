@@ -27,6 +27,7 @@ function CategoryEdit({handleCategoryEdit ,categories, setCategories}) {
       const result = await axios.get(`https://localhost:5001/api/category/${id}`);
       reset({id:result.data.categoryId,name: result.data.name})
       setCategories(result.data)
+      ///
   }
   return (
     <form onSubmit={handleSubmit(onSubmit)}>

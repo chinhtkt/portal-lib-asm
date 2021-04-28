@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react';
-import {  useHistory , useParams } from 'react-router-dom';
+import {  useHistory , useParams, Redirect } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 import axios from 'axios';
 
-function CategoryEdit({handleCategoryEdit ,categories, setCategories}) {
+function CategoryEdit({handleCategoryEdit ,categories, setCategories, authorities}) {
     const {id} = useParams();
     const history = useHistory();
   const {
@@ -22,6 +22,10 @@ function CategoryEdit({handleCategoryEdit ,categories, setCategories}) {
   useEffect(() => {
       loadUser()
   }, []);
+
+  if(!authorities) {
+    return <Redirect to ="/home" />
+  } 
 
   const loadUser = async () => {
       const result = await axios.get(`https://localhost:5001/api/category/${id}`);

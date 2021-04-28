@@ -207,21 +207,23 @@ function App() {
               <Book authorities={authorities} books={books} error={error} setBooks={setBooks} />
             </Route>
             <Route path='/addcategory'>
-              <CategoryAdd handleCategory={handleCategory} />
+              <CategoryAdd handleCategory={handleCategory} authorities={authorities} />
             </Route>
             <Route path='/addbook'>
-              <BookAdd handleBooks={handleBooks} categories={categories}  />
+              <BookAdd handleBooks={handleBooks} categories={categories} authorities={authorities}  />
             </Route>
             <Route path='/editcategory/:id'>
               <CategoryEdit
                 handleCategoryEdit={handleCategoryEdit}
                 categories={categories}
                 setCategories={setCategories}
+                authorities={authorities}
               />
             </Route>
             <Route path='/editbooks/:id'>
               <BookEdit
                 handleBookEdit={handleBookEdit}
+                authorities={authorities}
                 books={books}
                 setBooks={setBooks}
                 categories={categories}
@@ -232,6 +234,7 @@ function App() {
                 categories={categories}
                 error={error}
                 setCategories={setCategories}
+                authorities={authorities}
               />
             </Route>
             <Route path='/bookdetails/:id'>
@@ -239,6 +242,7 @@ function App() {
                 books={books}
                 error={error}
                 setBooks={setBooks}
+                authorities={authorities}
               />
             </Route>
           </Switch>

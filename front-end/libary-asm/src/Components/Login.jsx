@@ -34,7 +34,6 @@ function Login({setAuthorities, currentUser}) {
     console.log('Success:', values);
     AuthService.login(values,history,);
     setAuthorities(true);
-    alert('Login Successfully!')
       
     
     }

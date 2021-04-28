@@ -1,8 +1,8 @@
 import React from 'react';
-import { useHistory } from 'react-router-dom';
+import { useHistory, Redirect } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 
-function BookAdd({ handleBooks, categories }) {
+function BookAdd({ handleBooks, categories, authorities }) {
   const history = useHistory();
   const {
     register,
@@ -19,6 +19,10 @@ function BookAdd({ handleBooks, categories }) {
   //   if (!authorities) {
   //     return <Redirect to='/login' />;
   //   }
+
+  if(!authorities) {
+    return <Redirect to ="/login" />
+  }
 
   return (
     <form onSubmit={handleSubmit(onSubmit)}>

@@ -7,7 +7,7 @@ import './css/Button.css';
 import axios from 'axios';
 function Book({ authorities, books, error, setBooks }) {
   if (!authorities) {
-    return <Redirect to='/login' />;
+    return <Redirect to='/home' />;
   }
 
   const User = AuthService.getCurrentUser();

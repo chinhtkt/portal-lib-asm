@@ -1,8 +1,8 @@
 import React from 'react';
-import { useHistory } from 'react-router-dom';
+import { useHistory, Redirect } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 
-function CategoryAdd({ handleCategory }) {
+function CategoryAdd({ handleCategory, authorities }) {
   const history = useHistory();
   const {
     register,
@@ -16,6 +16,9 @@ function CategoryAdd({ handleCategory }) {
     history.push('/admin');
   };
   
+  if(!authorities) {
+    return <Redirect to ="/login" />
+  }
 
 //   if (!authorities) {
 //     return <Redirect to='/login' />;

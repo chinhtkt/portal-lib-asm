@@ -17,10 +17,11 @@ const login = ({ username, password,}, history) => {
       if (response.data) {
         localStorage.setItem('user', JSON.stringify(response.data));
       }
+      alert('Login Successfully!')
       history.push('/profile');
       setInterval(() => {
       window.location.reload();
-      }, 2000);
+      }, 100);
       
       
       return response.data;

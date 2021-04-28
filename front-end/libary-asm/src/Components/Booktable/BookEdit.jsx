@@ -1,11 +1,15 @@
 import React, { useEffect } from 'react';
-import { useHistory, useParams } from 'react-router-dom';
+import { useHistory, useParams, Redirect } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 import axios from 'axios';
 
-function BookEdit({ handleBookEdit, setBooks, categories }) {
+function BookEdit({ handleBookEdit, setBooks, categories, authorities }) {
+
+  
   const { id } = useParams();
   const history = useHistory();
+
+  
   const {
     register,
     handleSubmit,
@@ -26,6 +30,10 @@ function BookEdit({ handleBookEdit, setBooks, categories }) {
   useEffect(() => {
     loadBook();
   }, []);
+
+  if(!authorities) {
+    return <Redirect to ="/login" />
+  }
 
   const loadBook = async () => {
     const result = await axios.get(`https://localhost:5001/api/books/${id}`);
